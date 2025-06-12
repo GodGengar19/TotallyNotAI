@@ -1,0 +1,2 @@
+# TotallyNotAI
+AI advanced
